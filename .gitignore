@@ -5,6 +5,9 @@
 erl_crash.dump
 .concrete/DEV_MODE
 
+#ebin file
+./eibn/*.
+
 # rebar 2.x
 .rebar
 rel/example_project
